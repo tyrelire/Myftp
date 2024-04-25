@@ -1,4 +1,4 @@
-# Epitech Project, first Year -> Myftp
+# Epitech Project, second Year -> Myftp
 
 ## Description
 This project involves the implementation of an FTP (File Transfer Protocol) server in C programming language. The server is designed to handle multiple clients concurrently using TCP sockets. It supports basic FTP functionalities and adheres to the RFC959 protocol standards. The server provides authentication for an Anonymous account with an empty password and supports both active and passive mode data transfers.
